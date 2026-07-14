@@ -16,7 +16,15 @@ This SDK allows third-party developers and merchants to easily integrate the Pay
 
 **Requirements:** iOS 17.0+ and Swift 5.9+
 
-To install the SDK, import the compiled `.xcframework` directly into your Xcode Project, or use Swift Package Manager.
+### Swift Package Manager (Recommended)
+You can easily integrate PayBitoSDK into your project via Swift Package Manager:
+1. Open your project in Xcode.
+2. Go to **File > Add Package Dependencies...**
+3. Paste the following repository URL into the search bar:
+   ```text
+   https://github.com/rohits-gif/PaybitoSDK.git
+   ```
+4. Set the Dependency Rule (e.g., to "Up to Next Major Version" for version `1.0.0`) and click **Add Package**.
 
 ## 💻 Usage Guide
 
