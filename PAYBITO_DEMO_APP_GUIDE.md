@@ -1,10 +1,10 @@
 # PayBito TechStore Demo App Guide
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72541722-009d-4a08-a7c1-22834d81c3bb" width="23%" />
-  <img src="https://github.com/user-attachments/assets/bdf74fa6-5131-4199-b50f-640bdf0d2a85" width="23%" />
   <img src="https://github.com/user-attachments/assets/1879884d-1ccb-47b2-a1da-535cb4134170" width="23%" />
   <img src="https://github.com/user-attachments/assets/5fb8dabb-1b91-4a34-8543-626ecffc641b" width="23%" />
+  <img src="https://github.com/user-attachments/assets/72541722-009d-4a08-a7c1-22834d81c3bb" width="23%" />
+  <img src="https://github.com/user-attachments/assets/bdf74fa6-5131-4199-b50f-640bdf0d2a85" width="23%" />
 </p>
 
 This guide walks you through the implementation of the **TechStore Demo App**, which serves as a reference implementation for integrating the **PayBito Payment SDK** into an iOS application using SwiftUI.
